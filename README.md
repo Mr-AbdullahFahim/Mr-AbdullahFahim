@@ -24,25 +24,33 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 Latest GitHub Activity  
+
+<!--START_SECTION:activity-->
+<!-- Updates with the latest GitHub activity -->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 GitHub Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=your-github-username&limit=5&theme=radical" alt="GitHub Contributor Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 💻 Recent Blog Posts  
+
+<!-- BLOG-POST-LIST:START -->
+<!-- This will dynamically update with your latest blog posts -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 📫 Let's Connect  
 
 📧 **Email**: fahimabdullah528@gmail.com  
-💼 **LinkedIn**: [www.linkedin.com/in/mr-abdullah](www.linkedin.com/in/mr-abdullah)  
+💼 **LinkedIn**: [www.linkedin.com/in/mr-abdullah](https://www.linkedin.com/in/mr-abdullah)  
 
 Feel free to check out my projects, contribute, or reach out for collaborations! 🚀✨  

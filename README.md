@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 ## 🌟 Latest GitHub Activity  
 
 <!--START_SECTION:activity-->
-<!-- Updates with the latest GitHub activity -->
+<!-- This section will automatically update with your latest GitHub activity -->
 <!--END_SECTION:activity-->
 
 ---
@@ -35,15 +35,19 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 ## 📈 GitHub Contributions  
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=your-github-username&limit=5&theme=radical" alt="GitHub Contributor Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
 
-## 💻 Recent Blog Posts  
+## 📝 Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This will dynamically update with your latest blog posts -->
+<!-- If you have a blog, this section will automatically update -->
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -35,11 +35,11 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 ## 📈 GitHub Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AbdullahFahim&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---

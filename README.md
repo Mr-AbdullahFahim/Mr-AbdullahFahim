@@ -24,14 +24,6 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 
 ---
 
-## 🌟 Latest GitHub Activity  
-
-<!--START_SECTION:activity-->
-<!-- This section will automatically update with your latest GitHub activity -->
-<!--END_SECTION:activity-->
-
----
-
 ## 📈 GitHub Contributions  
 
 <p align="center">
@@ -41,14 +33,6 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AbdullahFahim&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
-
----
-
-## 📝 Recent Blog Posts  
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, this section will automatically update -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 

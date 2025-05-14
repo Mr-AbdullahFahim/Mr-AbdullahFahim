@@ -9,67 +9,84 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **Abdullah Fahim**, a self-driven full-stack developer with a love for creating smart, scalable, and secure applications across web, mobile, and IoT domains. Whether it's crafting responsive UIs or architecting robust backends, I focus on clean code, performance, and user experience.
+Hi there! I'm **Abdullah Fahim**, a full-stack developer with a passion for web, mobile, and IoT-based applications. I love solving real-world problems with code, optimizing systems for performance, and turning ideas into functional products.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 Tech Stack
 
-### 💻 Web Development
-- **Frontend**: React.js, Next.js, Vue.js  
-- **Backend**: Laravel, Node.js  
-- **Styling**: Tailwind CSS, Bootstrap  
+### 💻 Web
+- React.js, Next.js, Vue.js
+- Laravel, Node.js
 
-### 📱 Mobile Development
-- React Native, Flutter  
+### 📱 Mobile
+- React Native, Flutter
 
 ### 🗄 Backend & Databases
-- Laravel, Firebase, MySQL, MongoDB  
+- MySQL, Firebase, MongoDB
 
-### 🌐 IoT & Embedded Systems
+### 🔌 IoT & Hardware
 - ESP32, Arduino, Wokwi Simulation  
-- WiFi.h, HTTPClient.h  
+- WiFi.h, HTTPClient.h
 
-### 🔐 Security & Optimization
-- API Security, Performance Tuning, Clean Architecture  
+### 🛡️ Others
+- Git & GitHub, REST APIs, Clean Architecture, Agile Workflow
 
 ---
 
 ## 📂 Featured Projects
 
 - 🗑 **Smart Garbage Collection System**  
-  _Tech_: React Native, Firebase, ESP32  
-  → Monitors bin fill levels in real-time and notifies users via a mobile app.
+  _React Native + Firebase + ESP32_  
+  → Real-time garbage level tracking and notification system.
 
 - 📚 **Library Member Management System**  
-  _Tech_: Laravel, MySQL  
-  → Streamlines member and book management for libraries.
+  _Laravel + MySQL_  
+  → Member, book, and issue/return tracking system for libraries.
 
 - 🕒 **Timetable Display App**  
-  _Tech_: React Native, Google Sheets API  
-  → Displays real-time class schedules synced from Google Sheets.
+  _React Native + Google Sheets API_  
+  → Displays schedules dynamically synced from Google Sheets.
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🏁 **Founder** of a growing software solution company (Web, Mobile, Graphic Design services)
+- 🧪 Led **IoT simulation projects** using ESP32 and Firebase
+- 🔐 Built several **role-based access control systems** with real-time features
+- 📱 Created mobile apps with live APIs and cloud databases
+- 👨‍🏫 Conducted a **summer school (YarlInsight)** for student developers
 
 ---
 
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AbdullahFahim&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-AbdullahFahim&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-- 📧 **Email**: [fahimabdullah528@gmail.com](mailto:fahimabdullah528@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/mr-abdullah](https://www.linkedin.com/in/mr-abdullah)  
+- 📧 **Email**: [fahimabdullah528@gmail.com](mailto:fahimabdullah528@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/mr-abdullah](https://www.linkedin.com/in/mr-abdullah)
 
-Open to freelance work, collaborations, and tech talks. Let’s build something great together! 🚀
+I'm always open to collaboration, feedback, or just a good tech chat. Let’s connect! 🚀
 
 ---
 
-⭐️ _Thank you for visiting my profile! Don't forget to star the repositories you like._
+⭐ _Thanks for stopping by! Don't forget to star ⭐ your favorite repos._

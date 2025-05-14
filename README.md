@@ -71,11 +71,8 @@ Hi there! I'm **Abdullah Fahim**, a full-stack developer with a passion for web,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=github_dark" />
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=github_dark" /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=github_dark" /></span>
 </p>
 
 ---

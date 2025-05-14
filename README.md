@@ -1,30 +1,57 @@
-# 👨‍💻 Abdullah Fahim  
+<h1 align="center">👨‍💻 Abdullah Fahim</h1>
 
-🚀 **Software Developer | Tech Enthusiast**  
-
-Welcome to my GitHub! I'm a **full-stack developer** passionate about building web and mobile applications. I focus on delivering high-quality digital solutions.  
-
----
-
-## 🔥 What I Do  
-
-- **Web Development**: Laravel, React.js, Next.js, Vue.js  
-- **Mobile Development**: React Native, Flutter  
-- **Backend & Databases**: Laravel, Node.js, Firebase, MySQL  
-- **IoT & Embedded Systems**: ESP32, Arduino, Wokwi Simulation  
-- **Security & Optimization**: Writing secure, scalable applications  
+<p align="center">
+  <b>Full-Stack Developer | Tech Enthusiast | Problem Solver</b><br>
+  Passionate about building impactful digital solutions — one line of code at a time.
+</p>
 
 ---
 
-## 🚀 Current Projects  
+## 🚀 About Me
 
-- 🗑 **IoT Smart Garbage Collection System** (React Native, Firebase, ESP32)  
-- 📚 **Library Member Management System** (Laravel, MySQL)  
-- 📅 **Timetable Display App** (Google Sheets API, React Native)  
+Hi there! I'm **Abdullah Fahim**, a self-driven full-stack developer with a love for creating smart, scalable, and secure applications across web, mobile, and IoT domains. Whether it's crafting responsive UIs or architecting robust backends, I focus on clean code, performance, and user experience.
 
 ---
 
-## 📈 GitHub Contributions  
+## 🔧 Tech Stack & Tools
+
+### 💻 Web Development
+- **Frontend**: React.js, Next.js, Vue.js  
+- **Backend**: Laravel, Node.js  
+- **Styling**: Tailwind CSS, Bootstrap  
+
+### 📱 Mobile Development
+- React Native, Flutter  
+
+### 🗄 Backend & Databases
+- Laravel, Firebase, MySQL, MongoDB  
+
+### 🌐 IoT & Embedded Systems
+- ESP32, Arduino, Wokwi Simulation  
+- WiFi.h, HTTPClient.h  
+
+### 🔐 Security & Optimization
+- API Security, Performance Tuning, Clean Architecture  
+
+---
+
+## 📂 Featured Projects
+
+- 🗑 **Smart Garbage Collection System**  
+  _Tech_: React Native, Firebase, ESP32  
+  → Monitors bin fill levels in real-time and notifies users via a mobile app.
+
+- 📚 **Library Member Management System**  
+  _Tech_: Laravel, MySQL  
+  → Streamlines member and book management for libraries.
+
+- 🕒 **Timetable Display App**  
+  _Tech_: React Native, Google Sheets API  
+  → Displays real-time class schedules synced from Google Sheets.
+
+---
+
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=github-dark" alt="GitHub Activity Graph" />
@@ -36,9 +63,13 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building w
 
 ---
 
-## 📫 Let's Connect  
+## 🤝 Let's Connect
 
-📧 **Email**: fahimabdullah528@gmail.com  
-💼 **LinkedIn**: [www.linkedin.com/in/mr-abdullah](https://www.linkedin.com/in/mr-abdullah)  
+- 📧 **Email**: [fahimabdullah528@gmail.com](mailto:fahimabdullah528@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/mr-abdullah](https://www.linkedin.com/in/mr-abdullah)  
 
-Feel free to check out my projects, contribute, or reach out for collaborations! 🚀✨  
+Open to freelance work, collaborations, and tech talks. Let’s build something great together! 🚀
+
+---
+
+⭐️ _Thank you for visiting my profile! Don't forget to star the repositories you like._

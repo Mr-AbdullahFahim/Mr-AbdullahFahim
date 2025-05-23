@@ -66,7 +66,6 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 - 💬 Built a **real-time messaging system** using Laravel + Chatify + Pusher.
 - 🔐 Designed and deployed **role-based access control systems** with secure authentication.
 - 🛠️ Conducted **IoT simulations** and device-to-cloud integrations using ESP32 & Firebase.
-- 👨‍🏫 Initiated and led **YarlInsight Summer School** to mentor budding developers.
 - 👔 **Public Visibility Team Lead** at IEEE SB UoJ – led engagement strategies and boosted outreach by 30%.
 - 🎨 Designed brand assets as a **graphic designer** for IEEE and Gavel Club events.
 

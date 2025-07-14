@@ -3,6 +3,7 @@
 <p align="center">
   <b>Full-Stack Developer | Tech Enthusiast | Problem Solver</b><br>
   Passionate about building impactful digital solutions — one line of code at a time.
+  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-AbdullahFahim" />
 </p>
 
 ---

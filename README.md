@@ -3,12 +3,11 @@
 <p align="center">
   <b>Full-Stack Developer | Tech Enthusiast | Problem Solver</b><br>
   Passionate about building impactful digital solutions — one line of code at a time.
-  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-AbdullahFahim" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me<img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-AbdullahFahim" />
 
 Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-driven full-stack developer with a passion for solving real-world problems using web, mobile, and IoT-based technologies. I bring a unique blend of technical knowledge, design sense, and leadership experience to every project I work on.
 

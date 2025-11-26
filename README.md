@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">👨‍💻 Abdullah Fahim</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
+  <h3>Full-Stack Developer | Graphic Designer</h3>
   <p><i>Passionate about building impactful digital solutions — one line of code at a time.</i></p>
 
   <a href="https://linkedin.com/in/mr-abdullah">
@@ -12,6 +12,9 @@
   <a href="https://www.behance.net/mr_abdullah">
     <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
+
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 </div>
 
 ---
@@ -20,11 +23,9 @@
 
 Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-driven Full-Stack Developer. I specialize in solving real-world problems using **Web and Mobile** technologies, with a strong focus on responsive design and backend architecture. I bring a unique blend of technical expertise, design sensibility, and leadership experience to every project I undertake.
 
-<img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
-
 ---
 
-### Detailed Stack
+### 🛠️ Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -60,4 +61,3 @@ _React Native • Firebase • ESP32 (IoT)_
 ### ✅ AI-Powered To-Do App
 _React Native • OpenAI API_
 - A smart task manager that utilizes AI to suggest sub-tasks and schedules, featuring offline support.
-

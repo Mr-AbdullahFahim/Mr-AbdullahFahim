@@ -43,7 +43,10 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
       <br><b>Mobile</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,mssql" width="80" height="80" alt="Database" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="80" alt="Databases" />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="40" alt="MS SQL" />
       <br><b>Database</b>
     </td>
     <td align="center" width="150">

@@ -18,10 +18,10 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-driven Full-Stack Developer. I specialize in solving real-world problems using Web, Mobile, and IoT technologies. I bring a unique blend of technical expertise, design sensibility, and leadership experience to every project I undertake.
+Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-driven Full-Stack Developer. I specialize in solving real-world problems using **Web and Mobile** technologies, with a strong focus on responsive design and backend architecture. I bring a unique blend of technical expertise, design sensibility, and leadership experience to every project I undertake.
 
-* 🔭 I’m currently working on **Scalable Web Applications & IoT Integration**
-* 👯 I’m looking to collaborate on **Open Source & FinTech Projects**
+* 🔭 I’m currently working on **Scalable Web Applications & System Architecture**
+* 👯 I’m looking to collaborate on **Open Source, AI Integrations, & FinTech Projects**
 * 🎨 I also have a background in **Graphic Design & UI/UX**
 <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 ---

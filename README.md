@@ -21,6 +21,7 @@
 Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-driven Full-Stack Developer. I specialize in solving real-world problems using **Web and Mobile** technologies, with a strong focus on responsive design and backend architecture. I bring a unique blend of technical expertise, design sensibility, and leadership experience to every project I undertake.
 
 <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
+
 ---
 
 ### Detailed Stack

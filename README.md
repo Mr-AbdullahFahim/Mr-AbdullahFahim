@@ -41,7 +41,7 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 - 🗑 **League Auction Mangagement System**  
   _ASP.NET Core + Angular + SignalR_  
   → Host Auctions and Manage League and the participating users.
-  → System is Up and Running on: [visit the auctixlab](https://www.auctixlab.cloud)
+  System is Up and Running on: [visit the auctixlab](https://www.auctixlab.cloud)
 
 - 🗑 **Smart Garbage Collection System**  
   _React Native + Firebase + ESP32_  

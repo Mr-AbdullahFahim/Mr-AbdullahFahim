@@ -26,36 +26,6 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 ---
 
-## 🛠️ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue" width="80" height="80" alt="Frontend" />
-      <br><b>Frontend</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs,php" width="80" height="80" alt="Backend" />
-      <br><b>Backend</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=flutter,react" width="60" height="60" alt="Mobile" />
-      <br><b>Mobile</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="80" alt="Databases" />
-  
-  <br>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="40" alt="MS SQL" />
-      <br><b>Database</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python" width="80" height="80" alt="IoT/Core" />
-      <br><b>IoT & Core</b>
-    </td>
-  </tr>
-</table>
-
 ### Detailed Stack
 
 | Category | Technologies |
@@ -108,8 +78,9 @@ A smart task manager that utilizes AI to suggest sub-tasks and schedules, featur
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="languages graph" />
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=github_dark" /></span>
+
+  <span><img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=github_dark" /></span>
 </div>
 
 <br>

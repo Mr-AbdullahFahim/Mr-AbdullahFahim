@@ -23,7 +23,7 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 * 🔭 I’m currently working on **Scalable Web Applications & IoT Integration**
 * 👯 I’m looking to collaborate on **Open Source & FinTech Projects**
 * 🎨 I also have a background in **Graphic Design & UI/UX**
-
+<img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 ---
 
 ## 🛠️ Technical Arsenal
@@ -114,7 +114,3 @@ A smart task manager that utilizes AI to suggest sub-tasks and schedules, featur
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=react-dark" width="100%" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
-</p>

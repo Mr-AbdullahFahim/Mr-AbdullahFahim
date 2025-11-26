@@ -30,24 +30,24 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue" width="48" height="48" alt="Frontend" />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue" width="60" height="60" alt="Frontend" />
       <br><b>Frontend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs,php" width="48" height="48" alt="Backend" />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs,php" width="60" height="60" alt="Backend" />
       <br><b>Backend</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter,react" width="48" height="48" alt="Mobile" />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=flutter,react" width="60" height="60" alt="Mobile" />
       <br><b>Mobile</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" width="48" height="48" alt="Database" />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" width="60" height="60" alt="Database" />
       <br><b>Database</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python" width="48" height="48" alt="IoT/Core" />
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python" width="60" height="60" alt="IoT/Core" />
       <br><b>IoT & Core</b>
     </td>
   </tr>

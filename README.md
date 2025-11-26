@@ -41,22 +41,22 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 
 ### ⚖️ League Auction Management System
 _ASP.NET Core • Angular • SignalR • SQL Server_
-A comprehensive auction platform for managing leagues, real-time bidding, and user participation.
+- A comprehensive auction platform for managing leagues, real-time bidding, and user participation.
 <br>🚀 **Live Production:** [auctixlab.cloud](https://www.auctixlab.cloud)
-
-### ♻️ Smart Garbage Collection System
-_React Native • Firebase • ESP32 (IoT)_
-A real-time waste monitoring system that triggers mobile alerts when bins are full, optimizing collection routes.
 
 ### 📚 Library Member Management System
 _Laravel • MySQL • Bootstrap_
-A comprehensive system to manage library members, book inventory, and issue/return tracking efficiently.
+- A comprehensive system to manage library members, book inventory, and issue/return tracking efficiently.
 
 ### 🤝 Alumni Networking & Research Platform
 _Laravel • Tailwind CSS • Pusher_
-A role-based social platform featuring a job board, article sharing, and real-time chat for alumni connection.
+- A role-based social platform featuring a job board, article sharing, and real-time chat for alumni connection.
+
+### ♻️ Smart Garbage Collection System
+_React Native • Firebase • ESP32 (IoT)_
+- A real-time waste monitoring system that triggers mobile alerts when bins are full, optimizing collection routes.
 
 ### ✅ AI-Powered To-Do App
 _React Native • OpenAI API_
-A smart task manager that utilizes AI to suggest sub-tasks and schedules, featuring offline support.
+- A smart task manager that utilizes AI to suggest sub-tasks and schedules, featuring offline support.
 

@@ -16,27 +16,32 @@ Hi! I'm **Abdullah Fahim**, a Computer Science undergraduate and a results-drive
 ## 🛠️ Tech Stack
 
 ### 💻 Web
-- React.js, Next.js, Vue.js
-- Laravel, Node.js, PHP
+- Angular, React.js, Next.js, Vue.js
+- ASP.NET Core, Laravel, Node.js, PHP
 
 ### 📱 Mobile
 - React Native, Flutter
 
 ### 🗄 Backend & Databases
-- MySQL, Firebase, MongoDB, MariaDB
+- MS SQL ,MySQL, Firebase, MongoDB, MariaDB
 
 ### 🔌 IoT & Embedded
 - ESP32, Arduino, Wokwi Simulation  
 - WiFi.h, HTTPClient.h
 
 ### 🛡️ Tools & Extras
-- Git, GitHub, REST APIs, Async Storage  
-- Adobe Illustrator, Photoshop, CLO  
+- Git, GitHub, Postman, Swagger, REST APIs, Async Storage  
+- MATLAB, Adobe Illustrator, Photoshop, CLO
 - Pandas, NumPy, JupyterLab
 
 ---
 
 ## 📂 Featured Projects
+
+- 🗑 **League Auction Mangagement System**  
+  _ASP.NET Core + Angular + SignalR_  
+  → Host Auctions and Manage League and the participating users.
+  → System is Up and Running on: [visit the auctixlab](https://www.auctixlab.cloud)
 
 - 🗑 **Smart Garbage Collection System**  
   _React Native + Firebase + ESP32_  

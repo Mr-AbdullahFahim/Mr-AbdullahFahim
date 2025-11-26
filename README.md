@@ -63,28 +63,3 @@ A role-based social platform featuring a job board, article sharing, and real-ti
 _React Native • OpenAI API_
 A smart task manager that utilizes AI to suggest sub-tasks and schedules, featuring offline support.
 
----
-
-## 🏆 Achievements
-
-* **Public Visibility Team Lead (IEEE SB UoJ):** Led engagement strategies and boosted outreach by **30%**.
-* **IoT Innovation:** Conducted device-to-cloud simulations using ESP32 & Firebase.
-* **AI Integration:** Successfully integrated OpenAI API into mobile architecture for smart task suggestions.
-* **Security Implementation:** Designed Role-Based Access Control (RBAC) systems with secure authentication.
-* **Design:** Created brand assets as a graphic designer for IEEE and Gavel Club events.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AbdullahFahim&layout=compact&theme=github_dark" /></span>
-
-  <span><img src="https://github-readme-stats.vercel.app/api?username=Mr-AbdullahFahim&show_icons=true&theme=github_dark" /></span>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AbdullahFahim&theme=react-dark" width="100%" />
-</div>

@@ -14,7 +14,7 @@
   </a>
   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Mr-AbdullahFahim" />
+  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 </div>
 
 ---

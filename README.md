@@ -1,9 +1,8 @@
-# Abdullah Fahim
-**Full-Stack Developer | Graphic Designer**
+# Hi 😀 I'm Abdullah  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
+**I'm a Full-Stack Developer & Graphic Designer**
 
 > *Passionate about building impactful digital solutions — one line of code at a time.*
 
----
 
 ### 📬 Connect
 <p align="left">
@@ -18,4 +17,4 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
+

@@ -3,7 +3,7 @@
 
 > *Passionate about building impactful digital solutions — one line of code at a time.*
 
-🚀 **Available for projects:** Check out my services at [**uicorner.com**](https://www.uicorner.com)
+🚀 **Available for projects:** Check out our services at [**uicorner.com**](https://www.uicorner.com)
 
 ### 📬 Connect
 <p align="left">

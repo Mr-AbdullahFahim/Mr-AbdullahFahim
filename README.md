@@ -1,8 +1,9 @@
 # Hi 😀 I'm Abdullah  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
-**I'm a Full-Stack Developer & Graphic Designer**
+**Full-Stack Developer | Graphic Designer | Freelancer**
 
 > *Passionate about building impactful digital solutions — one line of code at a time.*
 
+🚀 **Available for projects:** Check out my services at [**uicorner.com**](https://www.uicorner.com)
 
 ### 📬 Connect
 <p align="left">
@@ -16,5 +17,3 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </p>
-
-

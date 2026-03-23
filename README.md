@@ -5,6 +5,8 @@
 
 🚀 **Available for projects:** Check out our services at [**uicorner.com**](https://www.uicorner.com)
 
+🌐 **Portfolio:** Explore my work at [**mr-abdullah.vercel.app**](https://mr-abdullah.vercel.app)
+
 ### 📬 Connect
 <p align="left">
   <a href="https://linkedin.com/in/mr-abdullah">

@@ -1,5 +1,5 @@
 # Hi 😀 I'm Abdullah  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
-**Full-Stack Developer | Graphic Designer | Freelancer | Indie Hacker**
+**Software Engineer | Graphic Designer | Freelancer | Indie Hacker**
 
 > *Passionate about building impactful digital solutions — one line of code at a time.*
 

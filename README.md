@@ -1,7 +1,7 @@
 # Hi 😀 I'm Abdullah  <img src="https://komarev.com/ghpvc/?username=Mr-AbdullahFahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="Mr-AbdullahFahim" />
 **Software Engineer | Graphic Designer | Freelancer | Indie Hacker**
 
-> *Passionate about building impactful digital solutions — one line of code at a time.*
+> *Passionate about building impactful digital solutions - one line of code at a time.*
 
 🚀 **Available for projects:** Check out our services at [**uicorner.com**](https://www.uicorner.com) <br/>
 🌐 **Portfolio:** Explore my work at [**mr-abdullah.vercel.app**](https://mr-abdullah.vercel.app)
